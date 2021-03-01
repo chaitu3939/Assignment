@@ -6,7 +6,7 @@ def tomcatWeb = 'C:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\weba
 stage('SCM Checkout'){
 
  
-git 'https://github.com/Harshahrs/demoJenkins1.git'
+git 'https://github.com/chaitu3939/Assignment.git'
 
  
 }
